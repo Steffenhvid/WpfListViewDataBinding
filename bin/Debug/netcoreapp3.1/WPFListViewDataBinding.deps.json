@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WPFListViewDataBinding/1.0.0": {
+        "dependencies": {
+          "Microsoft.Toolkit.Mvvm": "7.1.1"
+        },
+        "runtime": {
+          "WPFListViewDataBinding.dll": {}
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.1": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "5.0.0",
+          "System.Runtime.CompilerServices.Unsafe": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Toolkit.Mvvm.dll": {
+            "assemblyVersion": "7.1.0.0",
+            "fileVersion": "7.1.1.1"
+          }
+        }
+      },
+      "System.ComponentModel.Annotations/5.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/System.ComponentModel.Annotations.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/5.0.0": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPFListViewDataBinding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Toolkit.Mvvm/7.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Win165CasF12dS2O8CBkSuZxp0q2iOBRilQsfgbuLys70ogw1bBVM5Th5XTsodBRd9prf4ak5lMGgpRoaqr/wA==",
+      "path": "microsoft.toolkit.mvvm/7.1.1",
+      "hashPath": "microsoft.toolkit.mvvm.7.1.1.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dMkqfy2el8A8/I76n2Hi1oBFEbG1SfxD2l5nhwXV3XjlnOmwxJlQbYpJH4W51odnU9sARCSAgv7S3CyAFMkpYg==",
+      "path": "system.componentmodel.annotations/5.0.0",
+      "hashPath": "system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZD9TMpsmYJLrxbbmdvhwt9YEgG5WntEnZ/d1eH8JBX9LBp+Ju8BSBhUGbZMNVHHomWo2KVImJhTDl2hIgw/6MA==",
+      "path": "system.runtime.compilerservices.unsafe/5.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+    }
+  }
+}

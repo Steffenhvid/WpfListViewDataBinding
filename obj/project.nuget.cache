@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N/Vz+wvIsuMWE66rMWo7PerzbhAJN/NRzRXR/qe3+8U25b8WgOYEmhbrErUYKWTC/eWe8/Ka+lgXXGYDlBoGLA==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\WPFListViewDataBinding\\WPFListViewDataBinding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IS\\.nuget\\packages\\microsoft.toolkit.mvvm\\7.1.1\\microsoft.toolkit.mvvm.7.1.1.nupkg.sha512",
+    "C:\\Users\\IS\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\IS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
