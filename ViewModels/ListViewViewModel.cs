@@ -37,7 +37,7 @@ namespace WPFListViewDataBinding.ViewModels
 
         public ListViewViewModel()
         {
-            ColOneHeader = "First Column Name";
+            ColOneHeader = "First Column Name!";
 
             SelectedPeople = new ObservableCollection<Person>();
             SelectedPeople.Add(new Person());
